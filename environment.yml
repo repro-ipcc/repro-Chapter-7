@@ -1,0 +1,14 @@
+name: ipcc_ch7
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.7.12
+  - pip=24.0
+  - setuptools=59.8.0
+  - hdf5=1.12.2
+  - netcdf4=1.6.1
+  - mscorefonts
+  - scmdata
+  - pint-pandas=0.4
